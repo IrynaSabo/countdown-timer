@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(220, 237, 243);
+    text-align: center;
+    background-image: url("jonkoping.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-attachment: fixed;
+}
+#timer{
+    margin-top: 30px;
+    text-align: center;
+    font-size: 2.0em;
+    font-weight: initial;
+    font-family: 'Anton', sans-serif;
+}
